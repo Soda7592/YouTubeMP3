@@ -1,2 +1,6 @@
 # YouTubeMP3
 幫我爸寫ㄉ
+
+pyinstaller -F main.py --icon=s.ico --name=YouTubeMP3 -w
+-F/-D : 打包成單一檔案/打包成單一資料夾
+-w : 開啟時不打開 cmd
