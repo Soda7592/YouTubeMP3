@@ -1,7 +1,7 @@
 # YouTubeMP3
 幫我爸寫ㄉ
 
-pyinstaller -F main.py --icon=s.ico --name=YouTubeMP3 -w
+pyinstaller -F main.py --icon=soda7592.ico --name=YouTubeMP3 -w
 
 -F/-D : 打包成單一檔案/打包成單一資料夾
 
